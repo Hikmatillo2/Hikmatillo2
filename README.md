@@ -1,5 +1,3 @@
-<h1 align="center">h1km4t1ll0</h1>
-
 <div align="center">
   <img src="/animation_lls51ro8.gif" style="width:400px;"/>
 </div>
