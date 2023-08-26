@@ -1,7 +1,7 @@
 <h1 align="center">Hikmatillo2</h1>
 
 <div align="center">
-  <img src="/animation_lls4ewq1.gif" alt="drawing" style="width:200px;"/>
+  <img src="/animation_lls51ro8.gif" style="width:400px;"/>
 </div>
 
 <div align="center">
