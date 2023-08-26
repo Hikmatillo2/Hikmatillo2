@@ -13,11 +13,11 @@
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
 <lottie-player
-  autoplay
+  autoplay=
   controls
   loop
   mode="normal"
-  src="https://assets3.lottiefiles.com/packages/lf20_UJNc2t.json"
+  src="https://assets4.lottiefiles.com/datafiles/zc3XRzudyWE36ZBJr7PIkkqq0PFIrIBgp4ojqShI/newAnimation.json"
   style="width: 320px"
 >
 </lottie-player>
